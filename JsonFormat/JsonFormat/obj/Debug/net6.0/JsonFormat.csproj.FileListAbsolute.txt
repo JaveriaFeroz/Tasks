@@ -1,0 +1,15 @@
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\bin\Debug\net6.0\JsonFormat.exe
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\bin\Debug\net6.0\JsonFormat.deps.json
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\bin\Debug\net6.0\JsonFormat.runtimeconfig.json
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\bin\Debug\net6.0\JsonFormat.dll
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\bin\Debug\net6.0\JsonFormat.pdb
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.csproj.AssemblyReference.cache
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.AssemblyInfoInputs.cache
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.AssemblyInfo.cs
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.csproj.CoreCompileInputs.cache
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.dll
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\refint\JsonFormat.dll
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.pdb
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\JsonFormat.genruntimeconfig.cache
+C:\Users\javeria.feroz\source\repos\JsonFormat\JsonFormat\obj\Debug\net6.0\ref\JsonFormat.dll
