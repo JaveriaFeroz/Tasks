@@ -1,0 +1,15 @@
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\bin\Debug\net6.0\ffmpegUtility.exe
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\bin\Debug\net6.0\ffmpegUtility.deps.json
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\bin\Debug\net6.0\ffmpegUtility.runtimeconfig.json
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\bin\Debug\net6.0\ffmpegUtility.dll
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\bin\Debug\net6.0\ffmpegUtility.pdb
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.csproj.AssemblyReference.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.AssemblyInfoInputs.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.AssemblyInfo.cs
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.csproj.CoreCompileInputs.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.dll
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\refint\ffmpegUtility.dll
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.pdb
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ffmpegUtility.genruntimeconfig.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegUtility\obj\Debug\net6.0\ref\ffmpegUtility.dll

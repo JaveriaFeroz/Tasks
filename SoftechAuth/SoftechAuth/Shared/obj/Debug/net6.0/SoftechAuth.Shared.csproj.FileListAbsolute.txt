@@ -1,0 +1,12 @@
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\bin\Debug\net6.0\SoftechAuth.Shared.deps.json
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\bin\Debug\net6.0\SoftechAuth.Shared.dll
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\bin\Debug\net6.0\SoftechAuth.Shared.pdb
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.csproj.AssemblyReference.cache
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.AssemblyInfoInputs.cache
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.AssemblyInfo.cs
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.csproj.CoreCompileInputs.cache
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.dll
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\refint\SoftechAuth.Shared.dll
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\SoftechAuth.Shared.pdb
+C:\Users\javeria.feroz\source\repos\SoftechAuth\SoftechAuth\Shared\obj\Debug\net6.0\ref\SoftechAuth.Shared.dll

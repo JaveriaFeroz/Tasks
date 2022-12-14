@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Client\\SoftechAuth.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Client\\SoftechAuth.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Client\\SoftechAuth.Client.csproj",
+        "projectName": "SoftechAuth.Client",
+        "projectPath": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Client\\SoftechAuth.Client.csproj",
+        "packagesPath": "C:\\Users\\javeria.feroz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\javeria.feroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Shared\\SoftechAuth.Shared.csproj": {
+                "projectPath": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Shared\\SoftechAuth.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Authentication": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Shared\\SoftechAuth.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Shared\\SoftechAuth.Shared.csproj",
+        "projectName": "SoftechAuth.Shared",
+        "projectPath": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Shared\\SoftechAuth.Shared.csproj",
+        "packagesPath": "C:\\Users\\javeria.feroz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\javeria.feroz\\source\\repos\\SoftechAuth\\SoftechAuth\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\javeria.feroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

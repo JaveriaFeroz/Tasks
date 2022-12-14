@@ -1,0 +1,15 @@
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\bin\Debug\net6.0\ffmpegDownscaling.exe
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\bin\Debug\net6.0\ffmpegDownscaling.deps.json
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\bin\Debug\net6.0\ffmpegDownscaling.runtimeconfig.json
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\bin\Debug\net6.0\ffmpegDownscaling.dll
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\bin\Debug\net6.0\ffmpegDownscaling.pdb
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.csproj.AssemblyReference.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.AssemblyInfoInputs.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.AssemblyInfo.cs
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.csproj.CoreCompileInputs.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.dll
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\refint\ffmpegDownscaling.dll
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.pdb
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ffmpegDownscaling.genruntimeconfig.cache
+C:\Users\javeria.feroz\source\repos\ffmpegDownscaling\ffmpegDownscaling\obj\Debug\net6.0\ref\ffmpegDownscaling.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ffmpegDownscaling", "ffmpegDownscaling\ffmpegDownscaling.csproj", "{2E20E047-40A9-479E-AB7F-FD3F8107B9C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ffmpegUtility", "ffmpegUtility\ffmpegUtility.csproj", "{9C2088DD-6283-4E08-A3EA-06EEF2231BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E20E047-40A9-479E-AB7F-FD3F8107B9C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E20E047-40A9-479E-AB7F-FD3F8107B9C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E20E047-40A9-479E-AB7F-FD3F8107B9C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E20E047-40A9-479E-AB7F-FD3F8107B9C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C2088DD-6283-4E08-A3EA-06EEF2231BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C2088DD-6283-4E08-A3EA-06EEF2231BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C2088DD-6283-4E08-A3EA-06EEF2231BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C2088DD-6283-4E08-A3EA-06EEF2231BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DB758E3-6C28-48C0-88C5-BC8DE69B0041}
+	EndGlobalSection
+EndGlobal

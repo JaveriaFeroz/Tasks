@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oR0NZdXCuHJ9/+T6xxZV3J1/ud+gF0ct8ht5ut3XDcQ=",
+  "Source": "servicebus",
+  "BasePath": "_content/servicebus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
